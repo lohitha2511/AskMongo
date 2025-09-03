@@ -79,6 +79,14 @@ AskMongo is a full-stack application that lets you query **MongoDB using natural
 
 ---
 
+## Screenshots
+
+<img width="1912" height="888" alt="Image" src="https://github.com/user-attachments/assets/7f7c8d58-2e85-4b4f-a7d0-c89cd8178d5a" />
+<img width="1916" height="892" alt="Image" src="https://github.com/user-attachments/assets/65b2afd6-4f49-45d3-953e-441ee349de06" />
+<img width="1890" height="862" alt="Image" src="https://github.com/user-attachments/assets/deca5594-e3ae-44fe-9f0e-d4fc30351eb2" />
+
+---
+
 ## 🔒 Security
 
 - Validates all AI-generated queries before execution.  
